@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books>
+	<book id="2" name="c" author="tms" press="人名邮电出版社"/>
+	<book id="4" name="qq" author="qqq" press="qqqq"/>
+</books>
